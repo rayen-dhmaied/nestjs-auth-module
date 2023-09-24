@@ -1,5 +1,5 @@
 
-# NestJs Auth Module
+# NestJs auth module
 
 Ready-to-implement NestJs auth module to secure your application routes using Passport packages and JWT technology.
 
